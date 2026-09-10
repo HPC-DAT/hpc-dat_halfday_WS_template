@@ -1,9 +1,9 @@
 # High performance computing with Python and RS-DAT
-Workshop at SURF Utrecht on 19th March 2026
+Workshop at << - enter date and location of workshop here - >>
 
 ## Introduction
 
-This repository hosts the material the workshop entitled "High Performance Computing With Python and RS-DAT" taught at the SURF Utrecht on 19-03-2026 in the context of the HPC-DAT project funded by NWO through TDCC-NES. 
+This repository hosts the material the workshop entitled "High Performance Computing With Python and RS-DAT" taught at << - enter date and location of workshop here - >> in the context of the HPC-DAT project funded by NWO through TDCC-NES. 
 
 This workshop will acquaint participants with the use of the RS-DAT framework to deploy [Jupyter](https://docs.jupyter.org/en/latest/) on an HPC system, as well as with the fundamentals of the use of the [Dask](https://docs.dask.org/en/stable/index.html) and Xarray libraries in the Python ecosystem. 
 
